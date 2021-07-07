@@ -1,4 +1,4 @@
-package com.algaworks.curso.fjoo.enums;
+package enums;
 
 public enum Naipe {
 
